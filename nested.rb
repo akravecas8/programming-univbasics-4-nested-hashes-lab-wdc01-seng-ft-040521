@@ -103,7 +103,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
-programmer_hash[:yukihiro_matsumoto]
+programmer_hash[:yukihiro_matsumoto]={}
 end
 
 def adding_to_dennis
